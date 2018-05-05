@@ -1,6 +1,6 @@
 FROM alpine:latest
 
-MAINTAINER ilanyu <lanyu19950316@gmail.com>
+MAINTAINER charles <wutianluo@gmail.com>
 
 ENV l 0.0.0.0:8888
 
